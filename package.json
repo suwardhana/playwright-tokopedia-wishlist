@@ -1,0 +1,17 @@
+{
+  "name": "playwrighttokopedia",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/better-sqlite3": "^7.6.12",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "playwright": "^1.49.1"
+  }
+}
