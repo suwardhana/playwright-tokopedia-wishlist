@@ -1,15 +1,5 @@
-# playwrighttokopedia
+# playwright-tokopedia-wishlist
 
-To install dependencies:
+project ini dipergunakan untuk buka tokopedia, scan wishlist, dan alert kalau ada price drop
 
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.33. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+siapkan session dengan cara buat file session.json di root folder, yang sudah diextract dari browser menggunakan cookie editor
